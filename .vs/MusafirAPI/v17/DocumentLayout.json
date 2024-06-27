@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\orderitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\cartscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\feedbackscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\cartitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\favoritescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\musafircontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\musafircontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\feedback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\favorite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|c:\\users\\95kil\\source\\repos\\musafirapi\\musafirapi\\musafirapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85C8F4E1-1D4D-48BD-A161-178A35F273AD}|MusafirAPI\\MusafirAPI.csproj|solutionrelative:musafirapi\\musafirapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\OrderItemsController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\OrderItemsController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\OrderItemsController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\OrderItemsController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:19:07.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FeedbacksController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\FeedbacksController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\FeedbacksController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\FeedbacksController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\FeedbacksController.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAwwDQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:17:46.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FavoritesController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\FavoritesController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\FavoritesController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\FavoritesController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\FavoritesController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:17:10.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAFYAAAAAAAAAAAAcwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:16:34.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CartsController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\CartsController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\CartsController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\CartsController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\CartsController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:10:46.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CartItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\CartItemsController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\CartItemsController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\CartItemsController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\CartItemsController.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAAIwBcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:13:15.275Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:54:24.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAADkAAAAAAAAAAAAIwFwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:20:22.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:19:45.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "MusafirAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAIwFwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:18:21.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MusafirContext.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\MusafirContext.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\MusafirContext.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\MusafirContext.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\MusafirContext.cs",
+              "ViewState": "AQIAAKgAAAAAAAAAAAA9wLIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:02:49.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Product.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:46.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:42.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\User.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:53.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\PasswordHasher.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\PasswordHasher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:48:46.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\LoginDto.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\LoginDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:56:54.168Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Program.cs",
+              "RelativeToolTip": "MusafirAPI\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:57:03.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\UserDto.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\UserDto.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\UserDto.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\UserDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:56:25.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MusafirAPI\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\appsettings.Development.json",
+              "RelativeToolTip": "MusafirAPI\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T16:07:09.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "MusafirAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\appsettings.json",
+              "RelativeToolTip": "MusafirAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-27T16:06:18.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Order.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:35.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Feedback.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Feedback.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\Feedback.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Feedback.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\Feedback.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:28.056Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Favorite.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Favorite.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\Favorite.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Favorite.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\Favorite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:23.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Category.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:20.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\CartItem.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\CartItem.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\CartItem.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:14.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "MusafirAPI\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\Models\\Cart.cs",
+              "RelativeToolTip": "MusafirAPI\\Models\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:03:08.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "MusafirAPI.csproj",
+              "DocumentMoniker": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\MusafirAPI.csproj",
+              "RelativeDocumentMoniker": "MusafirAPI\\MusafirAPI.csproj",
+              "ToolTip": "C:\\Users\\95kil\\source\\repos\\MusafirAPI\\MusafirAPI\\MusafirAPI.csproj",
+              "RelativeToolTip": "MusafirAPI\\MusafirAPI.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-27T15:55:22.575Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
